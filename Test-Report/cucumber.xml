@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="89.070827">
+    <testcase classname="Yankee Candle Feature" name="Yankee Candle Login Test Scenario" time="89.070827">
+        <system-out>
+            <![CDATA[Given User in on Home Page..................................................passed
+When The Page Title is Yankee Candle........................................passed
+Then User clicks on sign in link............................................passed
+Then User is on sign in page................................................passed
+Then User enter the "cts147@gmail.com" and "Test123"........................passed
+And click on Login button...................................................passed
+Then User is get sign in....................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
